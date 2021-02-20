@@ -1,11 +1,4 @@
 ### Hi there this is " SHIVA DUTTA " Data Science Prodigy with knack for details &  having obessive work ethic 👋
-
-
-<!--
-**Dutta-1124/Dutta-1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on various projects & learning new expertise in the field of Data Science through Python, R Studio.
  
 - 🌱 I’m currently learning Machine Learning , Deep Learning, Inferential & Descriptive Statistics, NLP, Recomendation Systems,Time Series Analysis & reading through latest              research papers.  
@@ -21,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 
 - ⚡ Fun fact: Bcom computer Science Graduate in Love with field of Data Science !
--->
+
