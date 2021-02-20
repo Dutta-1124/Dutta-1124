@@ -1,4 +1,4 @@
-### Hi there this is " SHIVA DUTTA " Data Science Prodigy with knack for details &  having obessive work ethic 👋
+### Hi this is " SHIVA DUTTA " Data Science Prodigy with knack for details &  having obessive work ethic 👋
 - 🔭 I’m currently working on various projects & learning new expertise in the field of Data Science through Python, R Studio.
  
 - 🌱 I’m currently learning Machine Learning , Deep Learning, Inferential & Descriptive Statistics, NLP, Recomendation Systems,Time Series Analysis & reading through latest              research papers.  
