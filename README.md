@@ -15,3 +15,5 @@
 
 - ⚡ Fun fact: Bcom computer Science Graduate in Love with field of Data Science !
 
+![***Shiva Dutta's GitHub Stats***](https://github-readme-stats.vercel.app/api?username=Dutta-1124&count_private=true&theme=gotham) 
+
