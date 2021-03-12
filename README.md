@@ -7,7 +7,7 @@
   
 - 🤔 I’m looking for help with implementing new research papers & getting my hands dirty on latest Technologies in the field of Data Science.
  
-- 💬 Ask me about R-Studio, Statistics etc..
+- 💬 Ask me about R-Studio, Statistics,Machine Learning & Tableau etc..
 
 - 📫 How to reach me: JUST CALL ME BRO !
 
