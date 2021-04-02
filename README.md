@@ -9,9 +9,7 @@
  
 - 💬 Ask me about R-Studio, Statistics,Machine Learning & Tableau etc..
 
-- 📫 How to reach me: JUST CALL ME BRO !
-
-- 😄 Pronouns: He/His
+- 📫 How to reach me: JUST CALL ME BRO!!
 
 - ⚡ Fun fact: Bcom computer Science Graduate in Love with field of Data Science !
 
